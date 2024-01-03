@@ -1,0 +1,6 @@
+Raport 31
+Ze zg³osznia: Id: 1 Typ: Naprawa
+Tresc raportu:
+Tresc
+Koniec Raportu.
+

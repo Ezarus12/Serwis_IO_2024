@@ -1,0 +1,10 @@
+Klient: 3
+Nazwisko: Nowak
+Pojazd: 
+Marka: Audi Model: A2
+
+Klient: 1
+Nazwisko: 1
+Pojazd: 
+Marka: 1 Model: 1
+

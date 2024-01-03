@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\119172\source\repos\serwis_io_2024\serwis_io_2024\zapisywalne.h(16): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\119172\source\repos\serwis_io_2024\serwis_io_2024\entity.h(54): warning C4101: "k": lokalna zmienna, do której nie istnieje odwołanie
+  Serwis_IO_2024.vcxproj -> C:\Users\119172\source\repos\Serwis_IO_2024\Debug\Serwis_IO_2024.exe

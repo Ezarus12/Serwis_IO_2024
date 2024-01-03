@@ -1,0 +1,5 @@
+Wystawiajacy: Serwis
+Nabywca: Klient
+
+Nazwa us³ugi: Przeglad
+Cenna Netto: 891 | Stawka Vat: 23% | Cena Brutto: 1095.93
